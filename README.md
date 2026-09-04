@@ -1,12 +1,13 @@
-# **WinActivationCheck**
+<div align="center">
+<h1>WinActivationCheck</h1>
 
-<p align="center">
   <img src="https://img.shields.io/github/v/release/NeetheCheeBao/WinActivationCheck?style=flat-square" alt="release">
   <img src="https://img.shields.io/github/license/NeetheCheeBao/WinActivationCheck?style=flat-square" alt="license">
   <img src="https://img.shields.io/github/stars/NeetheCheeBao/WinActivationCheck?style=flat-square" alt="stars">
   <img src="https://img.shields.io/badge/python-3.6+-blue.svg?style=flat-square" alt="python">
   <img src="https://img.shields.io/badge/platform-windows-lightgrey.svg?style=flat-square" alt="platform">
-</p>
+
+</div>
 
 ### **WinActivationCheck** 是一个轻量级 Windows 激活信息图形化查询工具，基于 Python 和 Tkinter 开发。
 
@@ -18,6 +19,12 @@
 * **自动提权**：程序启动时会自动检测并请求管理员权限以执行系统级指令。
 
 ![image](/screenshot/demo.png)
+
+## 🛠️ 本地编译
+
+```bash
+.\build.bat
+```
 
 ## ⬇️ 下载使用
 
