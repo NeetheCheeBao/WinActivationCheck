@@ -130,6 +130,8 @@ class WinActivationCheckApp:
 if __name__ == "__main__":
     if is_admin():
         root = tk.Tk()
+        icon_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "icon.ico")
+        root.iconbitmap(icon_path)
         app = WinActivationCheckApp(root)
         root.mainloop()
     else:

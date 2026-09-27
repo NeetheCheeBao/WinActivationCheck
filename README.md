@@ -18,7 +18,7 @@
 * **高 DPI 适配**：适配 Windows 系统缩放，在高分辨率屏幕下保持字体清晰。
 * **自动提权**：程序启动时会自动检测并请求管理员权限以执行系统级指令。
 
-![image](/screenshot/demo.png)
+![image](/screenshot/demo1.png)
 
 ## 🛠️ 本地编译
 
